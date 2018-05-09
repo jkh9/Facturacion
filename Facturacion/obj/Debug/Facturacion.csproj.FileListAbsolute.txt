@@ -1,0 +1,14 @@
+c:\users\jkh9l\source\repos\Facturacion\Facturacion\bin\Debug\Facturacion.exe.config
+c:\users\jkh9l\source\repos\Facturacion\Facturacion\bin\Debug\Facturacion.exe
+c:\users\jkh9l\source\repos\Facturacion\Facturacion\bin\Debug\Facturacion.pdb
+c:\users\jkh9l\source\repos\Facturacion\Facturacion\obj\Debug\Facturacion.csprojResolveAssemblyReference.cache
+c:\users\jkh9l\source\repos\Facturacion\Facturacion\obj\Debug\Facturacion.csproj.CoreCompileInputs.cache
+c:\users\jkh9l\source\repos\Facturacion\Facturacion\obj\Debug\Facturacion.exe
+c:\users\jkh9l\source\repos\Facturacion\Facturacion\obj\Debug\Facturacion.pdb
+C:\Users\jkh9L\Google Drive\Programas\Facturacion\Facturacion\obj\Debug\Facturacion.csprojResolveAssemblyReference.cache
+C:\Users\jkh9L\Google Drive\Programas\Facturacion\Facturacion\obj\Debug\Facturacion.csproj.CoreCompileInputs.cache
+C:\Users\jkh9L\Google Drive\Programas\Facturacion\Facturacion\obj\Debug\Facturacion.exe
+C:\Users\jkh9L\Google Drive\Programas\Facturacion\Facturacion\obj\Debug\Facturacion.pdb
+C:\Users\jkh9L\Google Drive\Programas\Facturacion\Facturacion\bin\Debug\Facturacion.exe.config
+C:\Users\jkh9L\Google Drive\Programas\Facturacion\Facturacion\bin\Debug\Facturacion.exe
+C:\Users\jkh9L\Google Drive\Programas\Facturacion\Facturacion\bin\Debug\Facturacion.pdb
